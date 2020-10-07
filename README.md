@@ -1,6 +1,7 @@
   <h1 align="center"> I am Shereef 👋
  <h3 align="center"> A proudly Research Scientist, Data Scientist and Active Learner
-   ![profile](#https://github.com/SAB-6/SAB-6/blob/main/_prof.jpg)
+   <br/>
+  <img src="https://github.com/SAB-6/SAB-6/blob/main/_prof.jpg" style="width:500px;height:600px;">
    
 <!--
 **SAB-6/SAB-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
