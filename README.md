@@ -1,5 +1,5 @@
   <h1 align="center"> I am Shereef 👋
- <h3 align="center"> A proudly Research Scientist, Data Scientist and Active Learner
+ <h3 align="center"> A proudly Research Scientist, Data Scientist and Educator
    <br/>
   <img src="https://github.com/SAB-6/SAB-6/blob/main/_prof.jpg" style="width:500px;height:600px;">
    
