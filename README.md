@@ -6,10 +6,12 @@
   - 🌍 I love sharing my ideas with people around the globe.  <br/>
   - 📫 I have a presence on: <br/>
     - :link: <a href="https://www.linkedin.com/in/shereefbankole/">Linkedin!</a>
-    - :link: [Linkedin](https://www.linkedin.com/in/shereefbankole/) <br/>
-    - :link: [Medium](https://medium.com/@shereef.bankole_13733)  <br/>  
+    - :link: <a href="ttps://medium.com/@shereef.bankole_13733/">Medium!</a> 
  
  [![Shereef's github stats](https://github-readme-stats.vercel.app/api?username=SAB-6&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ 
+    <br/>
+  <img src="https://github.com/SAB-6/SAB-6/blob/main/_prof.jpg" style="width:500px;height:600px;">
 
 <!--
 **SAB-6/SAB-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
