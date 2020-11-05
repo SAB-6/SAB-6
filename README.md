@@ -1,11 +1,11 @@
   <h1 align="center"> I am Shereef 👋  <h3 align="center">
-  - ⭐ I am a Pythonista but also programming language agnostic.
-  - 💖 I love helping businesses to achieve their goals using data science techniques.
-  - 💻 A proudly Research Scientist, Data Scientist and Educator.
-  - 🌍 I love sharing my ideas with people around the globe.
-  - 📫 I have  a presence on:
-    - [Linkedin](https://www.linkedin.com/in/shereefbankole/)
-    - [Medium](https://medium.com/@shereef.bankole_13733)
+  - ⭐ I am a Pythonista but also programming language agnostic. <br/>
+  - 💖 I love helping businesses to achieve their goals using data science techniques.  <br/>
+  - 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
+  - 🌍 I love sharing my ideas with people around the globe.  <br/>
+  - 📫 I have a presence on: <br/>
+    - [Linkedin](https://www.linkedin.com/in/shereefbankole/) <br/>
+    - [Medium](https://medium.com/@shereef.bankole_13733)  <br/>
 
 <!--
 **SAB-6/SAB-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
