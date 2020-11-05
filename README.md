@@ -5,6 +5,7 @@
   - 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
   - 🌍 I love sharing my ideas with people around the globe.  <br/>
   - 📫 I have a presence on: <br/>
+    - :link: <a href="https://www.linkedin.com/in/shereefbankole/">Linkedin!</a>
     - :link: [Linkedin](https://www.linkedin.com/in/shereefbankole/) <br/>
     - :link: [Medium](https://medium.com/@shereef.bankole_13733)  <br/>  
  
