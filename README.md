@@ -1,4 +1,4 @@
-  <h1 align="center"> I am Shereef 👋
+  <h1 align="center"> I am Shereef 👋  <h3 align="center">
   - ⭐ I am a Pythonista but also programming language agnostic.
   - 💖 I love helping businesses to achieve their goals using data science techniques.
   - 💻 A proudly Research Scientist, Data Scientist and Educator.
@@ -9,7 +9,7 @@
 
 <!--
 **SAB-6/SAB-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <h3 align="center"> 
+ 
    <br/>
   <img src="https://github.com/SAB-6/SAB-6/blob/main/_prof.jpg" style="width:500px;height:600px;">
    
