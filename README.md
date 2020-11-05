@@ -1,4 +1,5 @@
-  <h1 align="center"> I am Shereef 👋  <h3 align="center">
+  <h3 align="center"> I am Shereef 👋  <h3 align="center">
+  <br/>
   - ⭐ I am a Pythonista but also programming language agnostic. <br/>
   - 💖 I love helping businesses to achieve their goals using data science techniques.  <br/>
   - 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
