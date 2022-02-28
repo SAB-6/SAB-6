@@ -5,6 +5,15 @@
 * 💖 I love helping businesses to achieve their goals using data science techniques.  <br/>
 * 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
 * 🌍 I love sharing my ideas with people around the globe.  <br/>
+* <br/>
+* ### I have technical expertise in and interest in -
+* Predictive modelling
+* Computer vision 
+* Natural Language Processing 
+* Forecasting <br/>
+<h3 align="left">Languages and Tools:</h3>
+
+<br/>
 * 📫 I have a presence on: <br/>
   * :link: <a href="https://www.linkedin.com/in/shereefbankole/">Linkedin!</a> <br/>
   * :link: <a href="https://medium.com/@shereef.bankole_13733/">Medium!</a> 
