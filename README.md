@@ -5,7 +5,7 @@
 * 💖 I love helping businesses to achieve their goals using data science techniques.  <br/>
 * 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
 * 🌍 I love sharing my ideas with people around the globe.  <br/>
-* <br/>
+<br/>
 ### I have technical expertise in and interest in -
 * Predictive modelling
 * Computer vision 
