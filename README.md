@@ -6,7 +6,7 @@
 * 💻 A proudly Research Scientist, Data Scientist and Educator.  <br/>
 * 🌍 I love sharing my ideas with people around the globe.  <br/>
 
-### I have technical expertise in and interest in -
+### I have technical expertise and interest in -
 * Predictive modelling
 * Computer vision 
 * Natural Language Processing 
