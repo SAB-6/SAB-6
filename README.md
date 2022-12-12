@@ -30,17 +30,18 @@
   <a href=><img scr="https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-official.svg" 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>     </a> 
-    <a href="https://www.jupyter.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter notebook" width="40" height="40"/>     </a> 
-</p>
+    <a href="https://www.jupyter.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter notebook" width="40" height="40"/></a> 
+  
+   <a href="https://www.jupyter.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" alt="C#" width="40" height="40"/></a>
 
 <br/>
 * 📫 I have a presence on: <br/>
   * :link: <a href="https://www.linkedin.com/in/shereefbankole/">Linkedin!</a> <br/>
   * :link: <a href="https://medium.com/@shereef.bankole_13733/">Medium!</a> 
   
-<!-- [![Shereef's github stats](https://github-readme-stats.vercel.app/api?username=SAB-6&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Shereef's github stats](https://github-readme-stats.vercel.app/api?username=SAB-6&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAB-6](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAB-6](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **SAB-6/SAB-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
